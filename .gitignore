@@ -1,0 +1,7 @@
+.theos
+
+.DS_Store
+._*
+
+Packages/
+Staging/

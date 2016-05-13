@@ -1,0 +1,10 @@
+Package: com.vsnrain.ccsystemstatus
+Name: CCSystemStatus
+Depends: de.j-gessner.ccloader, firmware (>= 7.0)
+Conflicts: gsc.ipad
+Version: 1.3
+Architecture: iphoneos-arm
+Description: System Information Control Center (CCLoader) plugin.
+Author: vsnrain
+Maintainer: vsnrain
+Section: Addons (ControlCenter)

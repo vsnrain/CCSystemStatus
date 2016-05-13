@@ -1,0 +1,10 @@
+{
+    entry =     {
+        bundle = CCSystemStatusSettings;
+        cell = PSLinkCell;
+        detail = CCSystemStatusSettings;
+        icon = "ccsystemstatus-settings-icon.png";
+        isController = 1;
+        label = CCSystemStatusSettings;
+    };
+}
